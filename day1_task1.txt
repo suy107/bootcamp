@@ -1,0 +1,21 @@
+WordPress does not require PHP nor HTML knowledge unlinke Drupal, Joomla or Typo3. A preinstalled plugin and template function allows them to be installed very easily. It's good choice for beginners.
+
+Q. why wordpress cms?
+Open Source with room for expansion:
+WordPress can be self-hosted, so there are no costs associated with downloading, installing, and upgrading. There are more than 50,000 WordPress plugins (often free), such as slideshows, contact forms, SEO optimization, etc.
+
+#) Designed for anyone, not just developers
+
+#)Lower setup and maintenance costs
+
+#)SEO Friendly 
+
+WordPress – What next:
+Working with WordPress can also earn you a living if you fancy writing articles on WordPress development. You can also get yourself involved the other schemes in partnership with WordPress and get rewarded for your effort. WordPress will always be available to give opportunity to all its developers as long as man is in existence. The developers of WordPress today will undoubtedly be the future web designers.
+
+#)You Can Make Money with WordPress Without Working with Clients.
+#)WordPress is Great for Freelancers.
+
+Conclusion:
+WordPress is a very good script to create a simple website. It is one of the simpliest to use of all solutions available on the internet. It's very good choose for a beginner's.
+
