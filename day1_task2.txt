@@ -1,0 +1,7 @@
+1)Dynamic change in token no. should be notified to patients.
+It means real time change in token no. can be shown on website, therfore it will be beneficial for the patients as well as for doctors also because both can decide before taking or booking for an appointment.
+
+2)Check for the fake reviews.
+There should be check on fake reviews as well as doctors can delete the reviews. Only patients can review the doctors with an authentication.
+
+3)Nearby Pharmacy location can also be shown along with the doctor's location.
